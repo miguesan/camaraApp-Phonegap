@@ -29,14 +29,14 @@ Instalación:
        
    6.2.3- Una vez reescalada, aparecerá bajo el botón de la "Foto".
        
-                    <b> NOTA IMPORTANTE <b>
+                    NOTA IMPORTANTE
                     
         Si es la primera vez que ejecutamos el proyecto en el movil, nos pedirá
         los permisos para acceder a la camara y ficheros del telefono tras pulsar el botón para hacer la foto.
 
 PROYECTO REALIZADO POR:
 
-    Miguel Sánchez Blanco
+    Miguel Sánchez
 
 GRACIAS POR RESOLVER DUDAS A:
 
